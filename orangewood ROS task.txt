@@ -1,0 +1,11 @@
+cd ~/ros_ws
+catkin_make
+roscore
+
+go to 2nd terminal
+source ~/ros_ws/devel/setup.bash
+rosrun turtlesim turtlesim_node
+
+go to 3rd terminal
+source ~/ros_ws/devel/setup.bash
+rosrun ros_session move_straight.py
