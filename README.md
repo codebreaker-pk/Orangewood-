@@ -48,3 +48,8 @@ This ROS Package can be used to control the movement of a bot inside the turtles
     rosrun ros_session move_straight.py
     ```
 >>>>>>> Added a basic readme
+### Watch the Video
+You can watch the video by clicking on the link below:
+
+[Watch Video](https://github.com/username/repository-name/raw/main/videos/output_video.mp4)
+
